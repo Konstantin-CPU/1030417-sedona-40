@@ -2,6 +2,7 @@
 
 * Студент: [Константин Гончарук](https://up.htmlacademy.ru/htmlcss/40/user/1030417).
 * Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
+* Ссылка на сайт проекта: [Мой сайт Седона](https://konstantin-cpu.github.io/1030417-sedona-40/).
 
 ---
 
